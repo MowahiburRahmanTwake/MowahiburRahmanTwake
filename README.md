@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Mowahibur Rahman Twake</h1>
 <h3 align="center">A android mobile app developer in kotlin from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV4cDEydzI5MGJoemdvNXByOGtjODc1ZnFibGlyaHhsOGdlcHh3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" >
+<img align="right" alt="Coding" width="400"> src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV4cDEydzI5MGJoemdvNXByOGtjODc1ZnFibGlyaHhsOGdlcHh3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mowahiburrahmantwake" alt="mowahiburrahmantwake" /></a> </p>
 
